@@ -104,7 +104,7 @@ html {
 .box1 {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/chicago.jpg') top center / cover no-repeat;
+    background: url('https://www.w3schools.com/w3images/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .slider1 h3 {
